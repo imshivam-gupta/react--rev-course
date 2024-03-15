@@ -1,0 +1,7 @@
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
+export const INCREMENT_BY = 'INCREMENT_BY';
+
+export const USERS_LOADING = 'USERS_LOADING';
+export const USERS_SUCCESS = 'USERS_SUCCESS';
+export const USERS_FAILURE = 'USERS_FAILURE';
