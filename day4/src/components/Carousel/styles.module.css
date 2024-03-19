@@ -1,0 +1,20 @@
+.carousel{
+    display: flex;
+}
+
+.images img{
+    width: 400px;
+    height: 400px;
+    object-fit: fit;
+    transition: all 0.5s;
+}
+
+.images{
+    display: flex;
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+}
+
+/* transiotn for transorm */
+

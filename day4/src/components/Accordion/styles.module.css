@@ -1,0 +1,25 @@
+.accordion{
+    padding: 0.5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    border: 1px solid white;
+    width:80%;
+}
+
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.data{
+    text-align: left;
+}
+
+.title svg{
+    transition: all 0.3s;
+}
